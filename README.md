@@ -1,15 +1,27 @@
 # Todo List App
 
-A simple Todo List web application built using HTML, CSS, and JavaScript.
+![Todo List Screenshot](screenshot.png)
+
+A simple Todo List web application built using HTML, CSS, and JavaScript. Tasks are saved in the browser using **localStorage**, so they remain even after page refresh.
+
+---
+
+## Live Demo
+
+[View Live App](https://shivangattri.github.io/ToDo-list-app/)
+
+---
 
 ## Features
 
 - Add tasks
 - Delete tasks
 - Mark tasks as completed
-- Press Enter to add tasks
+- Press **Enter** to add tasks
 - Tasks saved using localStorage
 - Tasks remain after page refresh
+
+---
 
 ## Technologies Used
 
@@ -18,11 +30,13 @@ A simple Todo List web application built using HTML, CSS, and JavaScript.
 - JavaScript
 - Browser localStorage
 
-## How to Run
+---
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
+## How to Run Locally
 
-## Project Structure
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ShivangAttri/todo-list-app.git
 ## Author 
 Shivang Attri
